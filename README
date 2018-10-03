@@ -1,0 +1,10 @@
+Pasos para usar este prompt:
+
+  * Clone el repositorio en la directorio .config
+  * Añada las siguientes líneas al final de su archivo .profile
+
+  source <PATH>/.config/completion/prompt.sh
+  source <PATH>/.config/completion/git-completion.bash
+  source <PATH>/.config/completion/git-flow-completion.bash
+
+Eso es todo.
