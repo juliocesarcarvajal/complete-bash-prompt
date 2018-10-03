@@ -1,3 +1,5 @@
+Español
+
 Pasos para usar este prompt:
 
   * Clone el repositorio en la directorio .config
@@ -8,3 +10,16 @@ Pasos para usar este prompt:
   source <PATH>/.config/completion/git-flow-completion.bash
 
 Eso es todo.
+
+English
+
+Steps to use this prompt:
+
+  * Clone the repository in the .config directory
+  * Add the following lines to the end of your .profile file
+
+  source <PATH>/.config/completion/prompt.sh
+  source <PATH>/.config/completion/git-completion.bash
+  source <PATH>/.config/completion/git-flow-completion.bash
+
+That is all.
